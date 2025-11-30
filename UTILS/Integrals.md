@@ -1,7 +1,9 @@
 
 Two common views of the integral:
 + The integral of a function f on a closed interval (a, b) is the "area" that is bound by f and x-axis, and lines passing a, f(a) and b, f(b).
-![[Pasted image 20251107184131.png]]
+
+![alt text](https://github.com/Ciailaist/ciailaist.github.io/blob/main/a-imgs/Pasted%20image%2020251107184131.png "Expr")
+
 + The integral f a function f is another function F such that f is "anti-derivative" of F, i.e. F'(x) = f(x). More on this:
 
 An integral is the _reverse_ of taking a derivative.  
@@ -22,9 +24,13 @@ That’s all an **indefinite integral** means — it’s the set of all function
 ### Indefinite integral
 ---
 They are integrals where bounds have been omitted (useful when discussing a theoretical aspect or when the bounds are not important.)
-![[Pasted image 20251107194012.png]]
+
+![alt text](https://github.com/Ciailaist/ciailaist.github.io/blob/main/a-imgs/Pasted%20image%2020251107194012.png "Expr")
+
 instead of e.g.
-![[Pasted image 20251107194222.png]]
+
+![alt text](https://github.com/Ciailaist/ciailaist.github.io/blob/main/a-imgs/Pasted%20image%2020251107194222.png "Expr")
+
 -> Note that **the same properties apply** for definite integral as well as indefinite integral (theorem 3, lect 15)
 
 
