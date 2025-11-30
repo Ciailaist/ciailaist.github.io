@@ -1,5 +1,6 @@
 The idea behind it is to approximate a function in a part using a polynomial of n-th degree. Why? Because polynomials are easy for computers and calculators to handle, while logarithms are more complicated.
-![[Pasted image 20251107174430.png | 400]]
+
+![alt text](https://github.com/Ciailaist/ciailaist.github.io/blob/main/a-imgs/Pasted%20image%2020251107174430.png "Expr")
 
 E.g. assume we want to approximate a function f at some point a, with a polynomial of degree 1, $P_1(x)$. We want:
 + f and P to have the same value in a
