@@ -207,3 +207,4 @@ They cannot be made equal, no matter what $$c$$ is.
     $$
 *   Never differentiable at $$x=3$$ (for any $$c$$).
 
+***
